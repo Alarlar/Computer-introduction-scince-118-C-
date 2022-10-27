@@ -1,3 +1,3 @@
 # Computer-introduction-scince-118
 
-This is my work at Canada college 
+This is my C++ projects from Canada college, Redwood city, CA 
