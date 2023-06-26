@@ -1,15 +1,15 @@
-#include <iostream>             // fixed line '<iostream>'
-#include <string>               // fixed line '<string>'
-using namespace std;            // fixed line 'std'
-long myFactorial(long integer);   // fixed line 'long', ';'
+#include <iostream>             
+#include <string>               
+using namespace std;            
+long myFactorial(long integer);   
 int main() {
     cout <<"Dinar Ibragimov - 07/23/22" << endl;
     
-    int j = 10;                 //fixed line '='
+    int j = 10;                 
     string myName = "NoName";
     cout << "Output sentence" << endl;
     cout << 120 << endl;
-    cout << j << endl;           // prints out the value of j // fixed line 'comment'
+    cout << j << endl;           
     
     if (( j == 0 ) || ( myName == "NoName" )) // fixed line '==', '||'
     {
@@ -26,17 +26,17 @@ int main() {
         cout << " and its double is " << j*2 << ".\n";   // print out double value Changed "i" to "j"
     }
     cout << "Enter your first and last name: ";
-    cin.ignore(); // Change: clear buffer
-    getline(cin, myName); // Changed from "cin >> myName;"
+    cin.ignore(); 
+    getline(cin, myName); 
     cout << "My first and last name is " << myName << endl;
     
     cout << "The factorial of 14 is " << myFactorial(14)<< endl;
     
     return 0;
 }
-long myFactorial(long integer) // Changed "intt" to "long"
+long myFactorial(long integer) 
 {
-if( integer == 1) // // Removed ";"
+if( integer == 1) 
      return 1;
 else
      {
