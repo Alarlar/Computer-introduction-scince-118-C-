@@ -11,3 +11,6 @@
 /NonRecursiveFindingFactorial.cpp/ - **This program finds the factorial without recursion**
 
 /passByRef.cpp/ - **This is a simple program that illustrates how the call by reference method works. In its own words or to quote the book C++ without fear: When we need to pass one information and not a copy, we give its address so that we can access the original, not the copies, without wasting time in copying and being able to manipulate the original source.**
+
+
+/functionLoop.cpp/ - **This program shows the use of the while loop. With loops we avoid having to enter or copy a block of code several times. The three "loop elements" are important when coding a loop. The _'while'_ loop is a preliminary loop.**
