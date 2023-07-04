@@ -19,3 +19,5 @@ The programmer (we) writes one.**
 /passAddressIntoFunction.cpp/ - **Function Passing in an Array by a reference/address. Here arrayA will have same address as array passed into function. We are using the same array, not a copy.**
 
 /functionLoop.cpp/ - **This program shows the use of the while loop. With loops we avoid having to enter or copy a block of code several times. The three "loop elements" are important when coding a loop. The _'while'_ loop is a preliminary loop.**
+
+/functionArea.cpp/ - **This is a small program that finds Area of Square with the function**
