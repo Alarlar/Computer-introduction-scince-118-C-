@@ -21,3 +21,5 @@ The programmer (we) writes one.**
 /functionLoop.cpp/ - **This program shows the use of the while loop. With loops we avoid having to enter or copy a block of code several times. The three "loop elements" are important when coding a loop. The _'while'_ loop is a preliminary loop.**
 
 /functionArea.cpp/ - **This is a small program that finds Area of Square with the function**
+
+/ProgCircle.cpp/ - **In this program we can see the use of the 'cmath' library for arithmetic tasks, such as finding areaof circle, volofSphere using the'pow' function.**
