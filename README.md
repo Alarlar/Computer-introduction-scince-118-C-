@@ -23,3 +23,5 @@ The programmer (we) writes one.**
 /functionArea.cpp/ - **This is a small program that finds Area of Square with the function**
 
 /ProgCircle.cpp/ - **In this program we can see the use of the 'cmath' library for arithmetic tasks, such as finding areaof circle, volofSphere using the'pow' function.**
+
+/boundsError.cpp/ - **This code may work correctly which is also a problem. If our code is correct, we don't need bounds-checking - that is C++ rule. The language standard does not require that it performs bounds checking. It is no guarantee that it still work the next time in our program. Or that it hasn't overwritten essential data even now, and we just haven't encountered the problems that it is going to cause yet. BoundError can cause Memory corruption and undefined behavior.** 
