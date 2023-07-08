@@ -25,3 +25,8 @@ The programmer (we) writes one.**
 /ProgCircle.cpp/ - **In this program we can see the use of the 'cmath' library for arithmetic tasks, such as finding areaof circle, volofSphere using the'pow' function.**
 
 /boundsError.cpp/ - **This code may work correctly which is also a problem. If our code is correct, we don't need bounds-checking - that is C++ rule. The language standard does not require that it performs bounds checking. It is no guarantee that it still work the next time in our program. Or that it hasn't overwritten essential data even now, and we just haven't encountered the problems that it is going to cause yet. BoundError can cause Memory corruption and undefined behavior.** 
+
+
+/MultTable.cpp/ - **By writing this program I learned how to declare two-dimensional arrays together with a loop and nested loop, which gives a multiplication table in a readable form, thanks to the ‘setw’ function from the '<iomanip>' library.
+I have to code with an 11x11 table, first starting with 0 because in arrays elements always start with 0.
+But 0 look weird in table so I made without 0 second table.**
