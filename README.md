@@ -30,3 +30,5 @@ The programmer (we) writes one.**
 /MultTable.cpp/ - **By writing this program I learned how to declare two-dimensional arrays together with a loop and nested loop, which gives a multiplication table in a readable form, thanks to the ‘setw’ function from the '<iomanip>' library.
 I have to code with an 11x11 table, first starting with 0 because in arrays elements always start with 0.
 But 0 look weird in table so I made without 0 second table.**
+
+/booleanExIf.cpp/ - **In this program I understood the logic of boolean expressions, the logic of if and otherwise.**
